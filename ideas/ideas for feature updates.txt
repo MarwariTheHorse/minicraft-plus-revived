@@ -33,3 +33,5 @@ Make respawn without bed += 20 blocks x/y of last spawn.
 
 ----
 
+Limit torches and other light sources such that their light doesn't shine through opaque blocks.
+
